@@ -1,0 +1,5 @@
+{
+  "name": "TaskBuddy: AI Task Prioritization",
+  "description": "A lightweight AI-powered task prioritization MVP that helps overwhelmed remote workers reduce decision paralysis by surfacing the Top 3 daily priorities.",
+  "requestFramePermissions": []
+}
